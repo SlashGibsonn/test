@@ -1,5 +1,5 @@
-# Menggunakan base image Python 3.8
-FROM python:3.8
+# Menggunakan base image Python 3.10
+FROM python:3.10 
 
 # Menetapkan working directory
 WORKDIR /app
